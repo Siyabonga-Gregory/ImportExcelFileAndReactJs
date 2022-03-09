@@ -1,4 +1,4 @@
-# ImportExcelFileAndReactJs
+# Import Excel File And ReactJs
 
 Simple excel import and extract data to a html table.
 
