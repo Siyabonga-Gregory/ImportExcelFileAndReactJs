@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://ashishd751.github.io/excel-renderer-demo",
   "dependencies": {
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.6.1",
     "font-awesome": "^4.7.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
